@@ -1,0 +1,25 @@
+{
+  "name": "api-integration-in-web-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.mjs",
+    "dev":  "node --watch server.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilalhanifkhatri/api-integration-in-web-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bilalhanifkhatri/api-integration-in-web-app/issues"
+  },
+  "homepage": "https://github.com/bilalhanifkhatri/api-integration-in-web-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
